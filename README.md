@@ -1,3 +1,2 @@
 
-[![shuhaib-kv's github stats](https://github-readme-stats.vercel.app/api?username=shuhaib-kv&theme=dark&show_icons=true)](https://github.com/shuhaib-kv)
-
+<h3>Hey everyone! I'm a software engineer and Go enthusiast. I'm passionate about building high-performance, reliable, and maintainable applications. I'm currently working on a project that uses Go to build a distributed system for data processing. In my free time, I like to explore new technologies
