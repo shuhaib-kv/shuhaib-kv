@@ -27,8 +27,6 @@
 
 
 <br />
-<br>
-#
-![shuhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhaib-kv&count_private=true)
+
 
 
