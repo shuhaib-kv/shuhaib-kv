@@ -27,6 +27,8 @@
 
 
 <br />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shuhaib-kv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
