@@ -25,6 +25,8 @@
 <img align="left" alt="figma" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="photoshop" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <br/>
+<br/>
+<br/>
 
 
 ## 🏆 GitHub Trophies
