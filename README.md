@@ -26,11 +26,9 @@
 <img align="left" alt="photoshop" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
 
-<br />
-<br>
 
 ## 🏆 GitHub Trophies
-</br>
+
 ![](https://github-profile-trophy.vercel.app/?username=shuhaib-kv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
