@@ -35,6 +35,12 @@
 
 <br/>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=shuhaib-kv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
 <div>
   <samp>
     <h2 align="center">😎 You can reach me by:</h2>
@@ -64,11 +70,5 @@
     </p>
   </samp>
 </div>
-
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=shuhaib-kv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 
