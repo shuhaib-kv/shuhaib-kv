@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shuhaib</h1>
-- :school: I am an `Intern` at Brototype
-- :computer: I am a `Golang Developer`
-- :student: I am a `Self taught developer`
-- :technologist: Enthusiastic to `Learn new technologies`
-- ℹ️ Feel free to discuss about `Go`
+- :school: I am an `Intern` at Brototype<br/>
+- :computer: I am a `Golang Developer`<br/>
+- :student: I am a `Self taught developer`<br/>
+- :technologist: Enthusiastic to `Learn new technologies`<br/>
+- ℹ️ Feel free to discuss about `Go`<br/>
 
 <h1>🧰 Languages and Tools</h1>
 
