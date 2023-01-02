@@ -29,10 +29,35 @@
 <img align="left" alt="figma" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="photoshop" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<div>
+  <samp>
+    <h2 align="center">😎 You can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/ijasmoopan/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="ijasmoopan" height="30"/></a>
+      <a href="https://www.facebook.com/profile.php?id=100009847590090" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="ijasmoopan" height="30"/></a>
+      <a href="https://mailto:ijasmoopan46@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="ijasmoopan" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://www.instagram.com/ijasmoopan/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="ijasmoopan" height="30"/></a>
+      <a href="https://wa.me/+917034464400" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="+917034464400" height="30"/></a>
+      <a href="https://twitter.com/ijas_moopan" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="ijasmoopan" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
 
 
 ## 🏆 GitHub Trophies
