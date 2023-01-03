@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shuhaib</h1>
-- :school: I am an `Intern` at Brototype<br/>
+<!-- - :school: I am an `Intern` at Brototype<br/>
 - :computer: I am a `Golang Developer`<br/>
 - :student: I am a `Self taught developer`<br/>
 - :technologist: Enthusiastic to `Learn new technologies`<br/>
 - ℹ️ Feel free to discuss about `Go`<br/>
-
+ -->
 <h1>🧰 Languages and Tools</h1>
 
 <img align="left" alt="GO" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
