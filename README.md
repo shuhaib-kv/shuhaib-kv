@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuhaib</h1>
-with a proven track record of success in both individual and team-based environments. I am skilled at producing high-quality results under tight deadlines and have a strong ability to quickly learn and adapt to new technologies. I am seeking a challenging role at a company where I can continue to develop my skills and knowledge while also contributing to the organization's goals.
+I'am a Golang Developer with a proven track record of success in both individual and team-based environments. I am skilled at producing high-quality results under tight deadlines and have a strong ability to quickly learn and adapt to new technologies. I am seeking a challenging role at a company where I can continue to develop my skills and knowledge while also contributing to the organization's goals.
 <!-- - :school: I am an `Intern` at Brototype<br/>
 - :computer: I am a `Golang Developer`<br/>
 - :student: I am a `Self taught developer`<br/>
