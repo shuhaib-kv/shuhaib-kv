@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shuhaib</h1>
 
+🧠 I'm currently learning Microservices,Docker & Kubernetes 
+
+💬 Ask me about GO
+
+📫 Reach me kvshuhaib2@gmail.com
+
+
 ## 🚀 About Me
 I'm a Self Taught Golang Developer  with a proven track record of success in both individual and team-based environments.Skilled at producing high-quality results under tight deadlines and have a strong ability to quickly learn and adapt to new technologies.Seeking a challenging role at a company where I can continue to develop my skills and knowledge while also contributing to the organization's goals.
 
