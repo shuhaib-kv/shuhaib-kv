@@ -1,84 +1,60 @@
-<h1 align="center">Hi 👋, I'm Shuhaib</h1>
+<h1 align="center">Shuhaib KV</h1>
+<p align="center"><b>Backend Engineer · Go · Distributed Systems</b></p>
 
-🧠 I'm currently learning Microservices,Docker & Kubernetes 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shuhaib-kv-352460223"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kvshuhaib2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/Soibkv"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
 
-💬 Ask me about GO
+---
 
-📫 Reach me kvshuhaib2@gmail.com
+## About
 
+Self-taught backend engineer specialising in **Go**. I build clean, well-tested APIs and services, from e-commerce backends to financial ledger systems, and I work comfortably both independently and in teams.
 
-## 🚀 About Me
-I'm a Self Taught Golang Developer  with a proven track record of success in both individual and team-based environments.Skilled at producing high-quality results under tight deadlines and have a strong ability to quickly learn and adapt to new technologies.Seeking a challenging role at a company where I can continue to develop my skills and knowledge while also contributing to the organization's goals.
+I learn new technologies quickly and focus on shipping reliable, maintainable software under tight deadlines. I'm open to backend roles where I can keep growing while contributing to the team's goals.
 
+## Currently
 
-<h1>🧰 Languages and Tools</h1>
+- Building a double-entry ledger service in Go with an AI assistant layer (MCP)
+- Deepening my knowledge of **microservices, Docker and Kubernetes**
+- Working with gRPC-based service architectures
 
-<img align="left" alt="GO" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-<img align="left" alt="Postgres" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+## Tech Stack
 
-<img align="left" alt="HTML" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Docker" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-<!-- <img align="left" alt="Kubernetics" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> -->
-<img align="left" alt="redis" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-<img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gitlab" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Bootstrap" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+| Area | Technologies |
+|------|--------------|
+| **Languages** | Go, TypeScript, JavaScript, Python |
+| **Backend** | REST APIs, gRPC, microservices, authentication |
+| **Databases** | PostgreSQL, Redis |
+| **DevOps** | Docker, Nginx, Linux, Git, GitHub, GitLab |
+| **Frontend** | React, Next.js, Vue, HTML, CSS, Bootstrap |
+| **Design** | Figma, Photoshop |
 
-<img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<p>
+  <img alt="Go" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Redis" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img alt="Nginx" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
 
+## Featured Project
 
-<img align="left" alt="nginx" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+**[E-commerce GPU Store](https://github.com/shuhaib-kv/E-commerce-GPU-store)**: a Go backend covering the core parts of an e-commerce platform.
 
-<img align="left" alt="figma" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="photoshop" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<br/>
-<br/>
+## GitHub Stats
 
-<br/>
+<p>
+  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shuhaib-kv&show_icons=true&hide_border=true&count_private=true" />
+  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhaib-kv&layout=compact&hide_border=true" />
+</p>
 
-<br/>
-<br/>
-<br/>
+## Get in Touch
 
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=shuhaib-kv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-<div>
-  <samp>
-    <h2 align="center">😎 You can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/shuhaib-kv-352460223" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="ijasmoopan" height="30"/></a>
-      <a href="https://www.facebook.com/suhaib.shuhaib.7?mibextid=ZbWKwL" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="ijasmoopan" height="30"/></a>
-      <a href="https://mailto:kvshuhaib2@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="ijasmoopan" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/_soib__" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="ijasmoopan" height="30"/></a>
-      <a href="https://wa.me/+919961366107" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="+917034464400" height="30"/></a>
-      <a href="https://twitter.com/Soibkv" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="ijasmoopan" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
-
-
-
+Feel free to reach out by [email](mailto:kvshuhaib2@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/shuhaib-kv-352460223).
